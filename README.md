@@ -1,13 +1,11 @@
-# Coursera Git Test Project
+# Simple Interest Calculator
 
-This is a sample project to demonstrate the GitHub repository setup requirements.
+A calculator that calculates simple interest given principal, annual rate of interest, and time period in years.
 
-## Description
+## Input:
+- `p`, principal amount
+- `t`, time period in years
+- `r`, annual rate of interest
 
-This repository contains the following files:
-- `LICENSE`: Apache 2.0 License file.
-- `README.md`: This file with details about the project.
-- `CODE_OF_CONDUCT.md`: Code of Conduct for contributors.
-- `CONTRIBUTING.md`: Guidelines for contributing to this project.
-- `simple-interest.sh`: A script to calculate simple interest.
-
+## Output:
+- `simple interest = p * t * r / 100`
